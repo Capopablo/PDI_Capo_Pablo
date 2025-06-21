@@ -5,10 +5,11 @@ Este material ha sido meticulosamente diseñado para servir como una guía compr
  
 ## Objetivos
  - Dominar de los métodos para la carga y el preprocesamiento de imágenes destinados a una CNN.
- - Comprender la arquitectura fundamental de una CNN, incluyendo la función y disposición estratégica de las capas Conv2D, MaxPooling2D, Flatten y Dense.
- - Aplicar los procedimientos para la compilación, entrenamiento y evaluación de un modelo utilizando las librerías Keras y TensorFlow.
- - Utilizar técnicas para la visualización de predicciones, lo que permite un análisis cualitativo y cuantitativo del rendimiento del modelo.
- 
+ - Comprender la arquitectura fundamental de una CNN
+ - Aplicar los procedimientos para la compilación, entrenamiento y evaluación de un modelo 
+ - Utilizar técnicas para la visualización
+
+   
 ## ¿Cómo usar el notebook?
 Abrir en Google Colab.
 Ejecutar las celdas en orden
