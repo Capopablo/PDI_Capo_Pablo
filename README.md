@@ -25,5 +25,26 @@ Durante el desarrollo de la materia, se abordaron aspectos como:
 
 ##  Estructura del repositorio
 
-Cada carpeta contiene un Trabajo Práctico (TP) o parte del Trabajo Integrador Final. El nombre refleja el tema abordado y respeta la estructura numérica indicada por la cátedra:
+Cada carpeta contiene un Trabajo Práctico (TP) con uno o más contenidos desarrollados. El nombre refleja el tema abordado y respeta la estructura numérica indicada por la cátedra:
+
+- [001-CamaraOscura]: Experimentación con cámara oscura al comienzo de la cátedra.
+- [002-CronofotografíaDigital]: Registro del movimiento a través de composiciones digitales tipo cronofotografía.
+- [003-Color](./003-Color): Análisis y manipulación de los canales de color utilizando OpenCV.
+- [004-MuestreoYCuantizacion]: Estudio del muestreo espacial y la reducción de niveles de color en imágenes digitales.
+- [005-SegmentaciónSimple]: Segmentación de objetos basada en color utilizando máscaras en HSV y umbrales simples.
+- [006-PrimerTrabajoIntegrador]: Integración de las técnicas trabajadas anteriormente.
+- [007-SegundoTrabajoIntegrador]: Segunda instancia de integración aplicada,segmentación basada en color y ajuste de brillo y contraste.
+- [008-DeteccionDeRostros]: Detección de rostros y landmarks faciales con OpenCV y modelos LBF.
+- [009-ClasificacionDeLetrasEscritasAMano]: Clasificación de caracteres manuscritos con modelos de aprendizaje automático.
+- [010-CNNBasicaConKerasYTensorFlow]: Construcción de una CNN básica desde cero usando Keras y TensorFlow.
+- [011-CNNsFullNumerosPerrosGatos](./011-CNNsFullNumerosPerrosGatos): Clasificación de imágenes con datasets diversos (números, gatos, perros) usando CNNs completas.
+- [012-FiltrosActivaciones]: Visualización y análisis de activaciones internas en redes neuronales convolucionales.
+- [013-Gemini2Espacial]: Introducción al modelo Gemini 2.0 y su uso en comprensión espacial aplicada.
+- [014-ResNet18]: Uso de la arquitectura ResNet18 para tareas de clasificación de imágenes mediante transferencia de aprendizaje.
+- [015-TransferenciaDeAprendizaje]: Aplicación de modelos preentrenados (VGG, MobileNet, etc.) sobre nuevos datasets.
+- [016-StableDiffusion]: Generación de imágenes con modelos de difusión, como Stable Diffusion.
+- [017-Gradio]: Desarrollo de interfaces interactivas con Gradio aplicadas al procesamiento de imágenes.
+- [018-ImgCaption]: Generación de descripciones automáticas de imágenes mediante modelos de IA generativa.
+- [019-Faker]: Uso de datos sintéticos con la librería Faker para generar datasets artificiales.
+- [020-TPFinalDeteccionSemaforos](./020-TPFinalDeteccionSemaforos): Proyecto final de detección de semáforos y clasificación de color combinando segmentación por HSV y detección por YOLOv8.
 
